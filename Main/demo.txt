@@ -5,3 +5,4 @@ switched from b1 to main
 switched from b2 to main
 switching to b1
 again switched from b1 main
+switching to b2
