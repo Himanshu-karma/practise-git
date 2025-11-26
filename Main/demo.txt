@@ -1,8 +1,15 @@
 iii
 working on main branch
 going ahead in main branch
+<<<<<<< HEAD
 switched from b1 to main
 switched from b2 to main
 switching to b1
 again switched from b1 main
 switching to b2
+=======
+created branch b1 and going ahead in it
+upstream is set and trying to push b1
+switched from main to b1 branch and graph is going in right direction
+switched from main to b1
+>>>>>>> b1
